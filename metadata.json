@@ -1,0 +1,6 @@
+{
+  "name": "Business PRO",
+  "description": "Bilingual (Bengali/English), multi-currency (BDT/USD) Inventory, POS, and Accounting Management suite powered by Google Apps Script and Google Sheets architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
